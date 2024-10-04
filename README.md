@@ -25,6 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanchamara&" alt="sahanchamara" /></p>
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanchamara&show_icons=true&locale=en&layout=compact" alt="sahanchamara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanchamara&show_icons=true&locale=en&layout=compact" alt="sahanchamara" /></p>
 
 
