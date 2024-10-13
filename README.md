@@ -25,7 +25,7 @@
 
 <h4 align="center"># 📊 GitHub Stats:</h4>
 
-<center><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanChamara&theme=transparent&hide_border=false"></center><br/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanChamara&theme=transparent&hide_border=false"></p><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanChamara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
