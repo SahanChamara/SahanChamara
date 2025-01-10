@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahan04che" target="blank"><img src="https://img.shields.io/twitter/follow/sahan04che?logo=twitter&style=for-the-badge" alt="sahan04che" /></a> </p>
 
-- 🌱 I’m currently learning **java,mysql,html,css,java script,python**
+- 🌱 I’m currently learning **java,MySQL,html,CSS,javascript,python**
 
 - 📫 How to reach me **sahanchamara456@gmail.com**
 
