@@ -8,7 +8,7 @@
 
   <div align="center">
   
- [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe)&nbsp;
+ [![committers.top badge](https://user-badge.committers.top/sri_lanka/SahanChamara.svg)](https://user-badge.committers.top/sri_lanka/SahanChamara)&nbsp;
  [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://personal-portfollio-gamma.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sahan-chamara/)
 
