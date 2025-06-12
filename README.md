@@ -5,6 +5,14 @@
   ### 🚀 Passionate Full Stack Developer | Problem Solver | Tech Enthusiast
   
   *"Building digital solutions that make a difference"*
+
+  <div align="center">
+  
+ [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe)&nbsp;
+ [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://personal-portfollio-gamma.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sahan-chamara/)
+
+</div>
   
   [![](https://visitcount.itsvg.in/api?id=SahanChamara&icon=0&color=0)](https://visitcount.itsvg.in)
   
