@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sahan Chamara 👋 
   
-  ### 🚀 Passionate Full Stack Developer | Problem Solver | Tech Enthusiast
+  ### 🚀 Passionate Full Stack Developer | Problem Solver | Cloud & DevOps Enthusiast
   
   *"Building digital solutions that make a difference"*
 
