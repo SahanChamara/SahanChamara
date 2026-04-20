@@ -19,43 +19,19 @@
 </div>
 
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=py" alt="Python" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=react" alt="React Query" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" height="40" width="55"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" width="55"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="40" width="55"/>
-<img src="https://skillicons.dev/icons?i=godot" alt="Godot Engine" height="40" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,powershell,angular,react,nextjs,bootstrap" />
 <br/>  
+
+<img src="https://skillicons.dev/icons?i=tailwind,jquery,vite,nodejs,express,spring,hibernate,maven,mongodb,mysql,neovim" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,nginx,git,github,kafka,rabbitmq,redis,prometheus" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,tensorflow,godot" />
+<br/>
+
 </div>
 
 <br/>  
